@@ -4,7 +4,7 @@
 
 <resources>
 
-    <string name="app_name">Dice Roller</string>
+    <string name="app_name">dice_roller_contrainlayout</string>
     <string name="roll">Lanza</string>
     <string name="tirar">Botar</string>
     <string name="otro">Outro</string>
