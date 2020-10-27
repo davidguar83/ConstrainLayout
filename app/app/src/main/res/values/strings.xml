@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Lanzar</string>
+    <string name="tirar">Tirando</string>
+    <string name="otro">Otro</string>
+    <string name="ganar">Ganando</string>
+    <string name="bart">TODO</string>
+</resources>
